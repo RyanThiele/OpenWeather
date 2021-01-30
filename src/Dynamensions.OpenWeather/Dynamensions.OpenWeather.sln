@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dynamensions.OpenWeather", "Dynamensions.OpenWeather\Dynamensions.OpenWeather.vbproj", "{6182B5B7-1BBB-4488-A7D3-E7558110B1E1}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dynamensions.OpenWeather.Tests", "Dynamensions.OpenWeather.Tests\Dynamensions.OpenWeather.Tests.vbproj", "{BFDE0603-A291-4CC7-A81D-7E16A980D7A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6182B5B7-1BBB-4488-A7D3-E7558110B1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6182B5B7-1BBB-4488-A7D3-E7558110B1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6182B5B7-1BBB-4488-A7D3-E7558110B1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6182B5B7-1BBB-4488-A7D3-E7558110B1E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFDE0603-A291-4CC7-A81D-7E16A980D7A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDE0603-A291-4CC7-A81D-7E16A980D7A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDE0603-A291-4CC7-A81D-7E16A980D7A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDE0603-A291-4CC7-A81D-7E16A980D7A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C3C3746-3D43-4474-96CD-D192A1F1CF2F}
+	EndGlobalSection
+EndGlobal
